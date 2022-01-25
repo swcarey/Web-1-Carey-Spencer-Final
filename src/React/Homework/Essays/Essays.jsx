@@ -1,0 +1,28 @@
+import React from 'react' ;
+import styled from 'styled-components';
+
+import Essay from './Essay.jsx';
+
+const Essays = () => {
+    return ( 
+        <EssaysStyled>
+            <h2>Essays</h2>
+            <Essay q='What is the difference between Git, Github and Heroku?'>
+                This is my answer
+            </Essay >
+            <Essay q='Explain the difference between HTML, CSS and JS.'>
+                Something else
+            </Essay>
+            <Essay q='What are Single Page Apps (SPAs)? How do they differ from traditional multi-page Web Sites?'>
+                Yet another
+            </Essay>
+        </EssaysStyled>
+    )
+}
+
+export default Essays;
+
+const EssaysStyled = styled.div`
+    background-color: white;
+    padding: 20px;
+`;
