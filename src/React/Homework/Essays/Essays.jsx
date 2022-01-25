@@ -7,13 +7,13 @@ const Essays = () => {
     return ( 
         <EssaysStyled>
             <h2>Essays</h2>
-            <Essay q='What is the difference between Git, Github and Heroku?'>
+            <Essay q='S2. What is the difference between Git, Github and Heroku?'>
                 This is my answer
             </Essay >
-            <Essay q='Explain the difference between HTML, CSS and JS.'>
+            <Essay q='S3. Explain the difference between HTML, CSS and JS.'>
                 Something else
             </Essay>
-            <Essay q='What are Single Page Apps (SPAs)? How do they differ from traditional multi-page Web Sites?'>
+            <Essay q='S4. What are Single Page Apps (SPAs)? How do they differ from traditional multi-page Web Sites?'>
                 Yet another
             </Essay>
         </EssaysStyled>

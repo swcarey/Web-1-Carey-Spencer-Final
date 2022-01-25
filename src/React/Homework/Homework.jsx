@@ -3,14 +3,12 @@ import styled from 'styled-components';
 
 import SunAndMoon from './SunAndMoon.jsx';
 import Essays from './Essays/Essays.jsx';
-import Essay from './Essays/Essay.jsx';
 
 const Homework = () => {
     return (
         <HomeworkStyled>
-                <SunAndMoon />
-                <Essays />
-                <Essay />
+            <SunAndMoon />
+            <Essays />
         </HomeworkStyled>
     )
 }
