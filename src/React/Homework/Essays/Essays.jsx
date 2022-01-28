@@ -23,8 +23,13 @@ const Essays = () => {
             </Essay>
             <Essay q='S4. What are Single Page Apps (SPAs)? How do they differ from traditional multi-page Web Sites?'>
                 <ul>
-                    <li>Single Page Apps: </li>
-                    <li>Multi-page Apps: </li>
+                    <li>Single Page Apps + Multi-page Apps: Single Page Applications are the choice to make if someone is planning to build a seamless experience for its users. A single-page application that doesn’t need to reload the page during its use and works within a browser. Some examples of these include Facebook, Netflix and Google maps. 
+Single page applications use a JavaScript framework for distributing application functionality over the web. With this, the biggest advantage of an SPA is the speed with how quickly information is provided. Information is initially transmitted when the site/app is launched or being refreshed in the background so you can use it without load time unlike multi-page Web Sites which require the exact opposite. 
+With single page applications only having one page to load, it almost serves as a disadvantage for site rankings on search engines as those metrics are based on the number of pages a website has. But at the same time it really is a seamless user experience as only the content changes within the page and not the actual page itself.
+Another difference between Single Page apps and traditional multi-page web sites would be an issue of security within SPAs. SPAs are more prone to cross-site scripting attacks, data exposure via API or even session tracking and authentication. Hackers can easily introduce client-side scripts resulting in exposure of sensitive data.
+Multi-page applications are exactly what they are called; multiple pages. These multiple pages load new functions when certain links are clicked and the load time is dependent on how quickly data is transmitted due to the site essentially having to start from scratch each time a new page is clicked.
+Overall, Single Page Applications seem to be the way to go to ensure the best experience for users along with the quickest load times.
+</li>
                 </ul>
             </Essay>
             <Essay q='What is the difference between Web Designer, Front End Developer and Back End Developer?'>
