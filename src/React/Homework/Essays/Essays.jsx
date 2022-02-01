@@ -16,14 +16,14 @@ const Essays = () => {
             </Essay >
             <Essay q='S3. Explain the difference between HTML, CSS and JS.'>
                 <ul>
-                    <li>HTML: HTML is code that is used to structure a web page / application and its content. It instructs the browser on how to display text and images in a web page. Is used to define the structure of a webpage.</li>
-                    <li>CSS: CSS is a language used for describing the presentation of a document written in a markup language such as HTML. Used to style and layout web pages / applications. (Font color, size, etc./) Works alongside HTML and Javascript.</li>
-                    <li>JavaScript: JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.</li>
+                    <li><b>HTML:</b> HTML is code that is used to structure a web page / application and its content. It instructs the browser on how to display text and images in a web page. Is used to define the structure of a webpage.</li>
+                    <li><b>CSS:</b> CSS is a language used for describing the presentation of a document written in a markup language such as HTML. Used to style and layout web pages / applications. (Font color, size, etc./) Works alongside HTML and Javascript.</li>
+                    <li><b>JavaScript:</b> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.</li>
                 </ul>
             </Essay>
             <Essay q='S4. What are Single Page Apps (SPAs)? How do they differ from traditional multi-page Web Sites?'>
                 <ul>
-                    <li>Single Page Apps + Multi-page Apps: Single Page Applications are the choice to make if someone is planning to build a seamless experience for its users. A single-page application that doesn’t need to reload the page during its use and works within a browser. Some examples of these include Facebook, Netflix and Google maps. 
+                    <li><b>Single Page Apps + Multi-page Apps:</b> Single Page Applications are the choice to make if someone is planning to build a seamless experience for its users. A single-page application that doesn’t need to reload the page during its use and works within a browser. Some examples of these include Facebook, Netflix and Google maps. 
 Single page applications use a JavaScript framework for distributing application functionality over the web. With this, the biggest advantage of an SPA is the speed with how quickly information is provided. Information is initially transmitted when the site/app is launched or being refreshed in the background so you can use it without load time unlike multi-page Web Sites which require the exact opposite. 
 With single page applications only having one page to load, it almost serves as a disadvantage for site rankings on search engines as those metrics are based on the number of pages a website has. But at the same time it really is a seamless user experience as only the content changes within the page and not the actual page itself.
 Another difference between Single Page apps and traditional multi-page web sites would be an issue of security within SPAs. SPAs are more prone to cross-site scripting attacks, data exposure via API or even session tracking and authentication. Hackers can easily introduce client-side scripts resulting in exposure of sensitive data.
@@ -34,9 +34,16 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
             </Essay>
             <Essay q='What is the difference between Web Designer, Front End Developer and Back End Developer?'>
                 <ul>
-                    <li>Web Designer: </li>
-                    <li>Front End Developer: </li>
-                    <li>Back End Developer: </li>
+                    <li><b>Web Designer / UX Designer:</b> Web designers build or redesign websites. They understand what it takes to make a website functional and easy to use in addition to making it aesthetically pleasing to the user. Aesthetics are extremely important when selecting the appropriate colors, font, layout and images, it creates the personality for the website. In addition to considering aesthetic aspects, the usability of the website has to be priority as they need to be easily used. </li>
+                    <li><b>Front End Developer:</b> A Front End Developer generally has one responsibility and that is to ensure that website visitors can easily interact with the page. This is done through a combination of design, technology and programming to code appearance. Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website. Some responsibilities of a Front End Developer are prioritizing user experience, bringing a concept to life with HTML, CSS and JavaScript, implementing design for mobile sites and production/maintenance of websites and web application user interfaces just to name a few. </li>
+                    <li><b>Back End Developer:</b> A Back End Developer is someone who builds and maintains the technology needed to power the components which enable the user-facing side of the website to exist. The back end code adds utility to everything the Front End Developer creates. They're responsible for maintaining, testing, and debugging the entire back end. This includes the core application logic, databases, data and application integration, API and other back end processes.</li>
+                </ul>
+            </Essay>
+            <Essay q= 'Distinguish the difference between Site Relative, Document Relative, and Absolute Paths.'>
+                <ul>
+                        <li>Site Relative:</li>
+                        <li>Document Relative:</li>
+                        <li>Absolute Paths:</li>
                 </ul>
             </Essay>
         </EssaysStyled>
