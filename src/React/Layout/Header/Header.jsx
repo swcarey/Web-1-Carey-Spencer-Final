@@ -37,7 +37,6 @@ const HeaderStyled = styled.header`
         }
 
         .SiteTitle {
-            outline: solid 1px white;
             flex: 3;
         }
     }
