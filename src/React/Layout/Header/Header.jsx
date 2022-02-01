@@ -30,7 +30,7 @@ const HeaderStyled = styled.header`
         align-items: center;
 
         .Logo {
-            flex: 3;
+            flex: 1;
             padding-right: 20px;
             display: flex;
             align-items: center;

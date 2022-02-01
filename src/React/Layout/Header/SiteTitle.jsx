@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const SiteTite = () => {
 
     return (
-        <SiteTiteStyled className='SiteTite'>
+        <SiteTiteStyled className='SiteTitle'>
             <h2>Spa Sanctuary</h2>
             <h3>A Spa For Every Occassion</h3> 
         </SiteTiteStyled>
