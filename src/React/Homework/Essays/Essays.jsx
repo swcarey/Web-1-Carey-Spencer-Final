@@ -41,9 +41,17 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
             </Essay>
             <Essay q= 'Distinguish the difference between Site Relative, Document Relative, and Absolute Paths.'>
                 <ul>
-                        <li>Site Relative:</li>
-                        <li>Document Relative:</li>
-                        <li>Absolute Paths:</li>
+                        <li><b>Site Relative:</b> Site root-relative paths provide the path from the site's root folder to a document. Begins with a leading forward slash, which stands for the site root folder. Often provides the best way to specify links in a website in which you need to frequently move HTML files from one folder to another. </li>
+                        <li><b>Document Relative:</b> Document-relative paths are used for local links in most websites. They're useful when the current document and the linked document are in the same folder and are likely to remain together. Although you could use a document-relative path to link to a document in another folder by specifying the path through the folder hierarchy from the current document to the linked document.</li>
+                        <li><b>Absolute Paths:</b> Absolute paths provide the complete URL of a linked document to locate a file or folder, starting from the root element and ending with other subdirectories. Could also be known as the "full path." Servers systems are required to know the absolute path for every file that it has access to in order to locate it. </li>
+                </ul>
+            </Essay>
+            <Essay q= 'What is the difference between jpg, gif, png and SVG images?'>
+                <ul>
+                        <li><b>JPEG:</b> Answer here.</li>
+                        <li><b>GIF:</b> Answer here.</li>
+                        <li><b>PNG:</b> Answer here.</li>
+                        <li><b>SVG:</b> Answer here.</li>
                 </ul>
             </Essay>
         </EssaysStyled>
