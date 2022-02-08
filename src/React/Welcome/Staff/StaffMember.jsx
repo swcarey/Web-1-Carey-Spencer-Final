@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import { isMemberName } from 'typescript';
 
 /* Scripts ---------------------------*/
 import { defaultMediaQueries } from 'React/common/useMediaQuery.js';
