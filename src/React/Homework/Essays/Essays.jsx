@@ -48,10 +48,21 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
             </Essay>
             <Essay q= 'What is the difference between jpg, gif, png and SVG images?'>
                 <ul>
-                        <li><b>JPEG:</b> Answer here.</li>
-                        <li><b>GIF:</b> Answer here.</li>
-                        <li><b>PNG:</b> Answer here.</li>
-                        <li><b>SVG:</b> Answer here.</li>
+                        <li><b>JPEG:</b> A digital image format which contains compressed image data. With a 10:1 compression ratio, JPG images are very compact. Most popular format for sharing photos and other images on the internet between mobile and desktop users.</li>
+                        <li><b>GIF:</b> In the easiest form,a GIF is just an animated image. Like the JPG and PNG file formats, GIF format can be used to make still images but the best feature of them is to create animated images. Less of a video and more of a flipbook.</li>
+                        <li><b>PNG:</b> A raster-graphics file format that supports lossless data compression. This lossless data compression format was created to replace the GIF. PNG file format is an open format with no copyright limitations. </li>
+                        <li><b>SVG:</b> An XML-based vector image format for two-dimensional graphics with support for interactivity and animation without losing any resolution. Images can scale up to any resolution. </li>
+                </ul>
+            </Essay>
+            <Essay q= 'Define the following roles: Project Manager, Business Analyst, Scrum Master, UX designer, Web Developer/Engineer, Quality Assurance Tester, and DevOps.'>
+                <ul>
+                        <li><b>Project Manager:</b> A person who leads the work of a team to achieve all project goals within the given constraints. Responsible for day-to-day maintenance along with planning, procurement and execution of a project. </li>
+                        <li><b>Business Analyst:</b> A person who analyzes and documents the market environment, process, or systems of businesses. Evaluate past and current business data with the primary goal of improving decision-making processes within organizations.</li>
+                        <li><b>Scrum Master:</b> The scrum master helps to facilitate scrum to the larger team by ensuring the scrum framework is followed. They are committed to the scrum values and practices, but should also remain flexible and open to opportunities for the team to improve their workflow. Scrum is a framework for project management that emphasizes toward a well-defined goal. The framework begins with a simple premise: Start with what can be seen or known. After that, track the progress and tweak, as necessary.</li>
+                        <li><b>UX Designer:</b> A UX designer makes a product or service usable, enjoyable, and accessible. They work to optimize the interaction between humans and products. Uses research, data analysis, and test results rather than aesthetic preferences and opinions. </li>
+                        <li><b>Web Developer/Engineer:</b> A web developer is a programmer or a coder who specializes in, or is specifically engaged in, the development of applications using a client-server model. A web engineer is skilled in the development of applications and software tools for the internet. They normally design application functionality, develop network communication systems, build user-friendly interfaces, and develop company websites.</li>
+                        <li><b>Quality Assurance Tester:</b> Quality assurance testers deliver high quality, perfectly-functioning software and web applications to customers. They test and evaluate new and existing programs to identify and help remove bugs, glitches, and other user experience issues. </li>
+                        <li><b>DevOps:</b> A set of practices that combines software development and IT operations. Aims to shorten the systems development life cycle and provide continuous delivery with high software quality. </li>
                 </ul>
             </Essay>
         </EssaysStyled>
