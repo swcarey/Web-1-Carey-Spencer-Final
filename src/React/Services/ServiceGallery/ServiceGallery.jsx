@@ -2,15 +2,19 @@ import React from 'react';
 import styled from 'styled-components';
 import { servicesData } from '../servicesData.js';
 
-import ServiceGalleryItem from './ServiceGalleryItem.jsx'
+import ServiceGalleryItem from './ServiceGalleryItem.jsx';
 
-const ServiceGallery = ({services}) => {
+const ServiceGallery = ({services, chosenCategory}) => {
 
     return (
         <ServiceGalleryStyled className='ServiceGallery'>
             { 
-                services.map((service, idx) => {
-                    return <ServiceGalleryItem key= { idx } service={ service }/>
+                services
+                    .filter((service) => {
+                        return (chosenCategory === 'All' || service.category === chosenCategory);
+                    })
+                    .map((service, idx) => {
+                        return <ServiceGalleryItem key= { idx } service={ service }/>
                 })
             }
         </ServiceGalleryStyled>

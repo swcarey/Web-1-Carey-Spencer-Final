@@ -65,6 +65,11 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <li><b>DevOps:</b> A set of practices that combines software development and IT operations. Aims to shorten the systems development life cycle and provide continuous delivery with high software quality. </li>
                 </ul>
             </Essay>
+            <Essay q= 'What is considered the right size for an image or video asset?'>
+                <ul>
+                        <li><b>Site Relative:</b> The ideal size is always going to be the highest you can go that will be the fastest to load while keeping the quality of the image. </li>
+                </ul>
+            </Essay>
         </EssaysStyled>
     )
 }
