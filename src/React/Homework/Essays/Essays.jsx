@@ -70,6 +70,11 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <li><b>Site Relative:</b> The ideal size is always going to be the highest you can go that will be the fastest to load while keeping the quality of the image. </li>
                 </ul>
             </Essay>
+            <Essay q= 'What does it mean for a company to be agile? What are the pros and cons of being agile?'>
+                <ul>
+                        <li><b>Agile means:</b> Within the business context, agility means being able to respond to consumer or market changes at a moment's notice -- or make adjustments proactively ahead of them. Companies can adapt to changing conditions and reinvent itself for continued success such as adapting to things like working remote and having employees conference in. One draw back with this is requiring a consistent team.  </li>
+                </ul>
+            </Essay>
         </EssaysStyled>
     )
 }
