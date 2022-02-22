@@ -7,21 +7,21 @@ const Essays = () => {
     return ( 
         <EssaysStyled>
             <h2>Essays</h2>
-            <Essay q='S2. What is the difference between Git, Github and Heroku?'>
+            <Essay q='What is the difference between Git, Github and Heroku?'>
                 <ul>
                     <li><b>Git:</b> Git is a code hosting platform for version control and collaboration. It lets you work as a team with others from anywhere in the world. In other words, it’s a software for tracking changes in any set of files, usually for coordinating work with programmers developing source code during software development. Hosted on a local system rather than the cloud. </li>
                     <li><b>Github:</b> Github is a provider of internet hosting for software development and version control. It offers source code management functionality of Git plus its own features. With Github there is a need to purchase a separate server to host web apps. Ultimately well-known for contribution and collaboration.</li>
                     <li><b>Heroku:</b> Heroku is a cloud platform service supporting several programming languages. Supports Java, Node.js, Scala, Clojure, Python, PHP and Go. Rather than having to purchase a separate server to host, Heroku comes with it’s own server so you can purchase hosting plans and deploy web apps easily. Heroku is mainly used to deploy (within GIT), manage and scale apps. Heroku gives developers freedom to focus on their core product without the distraction of maintaining servers, hardware or infrastructure like the others. </li>
                 </ul>
             </Essay >
-            <Essay q='S3. Explain the difference between HTML, CSS and JS.'>
+            <Essay q='Explain the difference between HTML, CSS and JS.'>
                 <ul>
                     <li><b>HTML:</b> HTML is code that is used to structure a web page / application and its content. It instructs the browser on how to display text and images in a web page. Is used to define the structure of a webpage.</li>
                     <li><b>CSS:</b> CSS is a language used for describing the presentation of a document written in a markup language such as HTML. Used to style and layout web pages / applications. (Font color, size, etc./) Works alongside HTML and Javascript.</li>
                     <li><b>JavaScript:</b> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.</li>
                 </ul>
             </Essay>
-            <Essay q='S4. What are Single Page Apps (SPAs)? How do they differ from traditional multi-page Web Sites?'>
+            <Essay q='What are Single Page Apps (SPAs)? How do they differ from traditional multi-page Web Sites?'>
                 <ul>
                     <li><b>Single Page Apps + Multi-page Apps:</b> Single Page Applications are the choice to make if someone is planning to build a seamless experience for its users. A single-page application that doesn’t need to reload the page during its use and works within a browser. Some examples of these include Facebook, Netflix and Google maps. 
 Single page applications use a JavaScript framework for distributing application functionality over the web. With this, the biggest advantage of an SPA is the speed with how quickly information is provided. Information is initially transmitted when the site/app is launched or being refreshed in the background so you can use it without load time unlike multi-page Web Sites which require the exact opposite. 
@@ -73,6 +73,20 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
             <Essay q= 'What does it mean for a company to be agile? What are the pros and cons of being agile?'>
                 <ul>
                         <li><b>Agile means:</b> Within the business context, agility means being able to respond to consumer or market changes at a moment's notice -- or make adjustments proactively ahead of them. Companies can adapt to changing conditions and reinvent itself for continued success such as adapting to things like working remote and having employees conference in. One draw back with this is requiring a consistent team.  </li>
+                </ul>
+            </Essay>
+            <Essay q= 'What are testing environments? What is the difference between Local, Dev, QA and Production?'>
+                <ul>
+                        <li><b>Testing Environments:</b> A test environment is any space in which software undergoes a series of experimental uses.  This includes setting up a server to run tests so you can create identical environments every time to test the product. In addition, it also involves hardware and a network configuration.</li>
+                        <li><b>Local Environments:</b> A local development environment allows you to use your own machine to run your website, instead of using one provided by a web hosting company. You can customize the setup without worrying that it'll affect your live site, as well as make and test site development before uploading your site.</li>
+                        <li><b>Development Environments:</b> The development environment is the set of processes and programming tools used to create the program or software product. A development environment is often seen as a developer's "everything-goes" workspace. When working with a development environment it is part of a tiered structure of environments, where changes are deployed through different environments before reaching a live website. </li>
+                        <li><b>QA Environments:</b> A QA (Quality Assurance) environment is where you test your upgrade procedure against data, hardware, and software that closely simulate the Production environment and where you allow intended users to test the resulting Waveset application. </li>
+                        <li><b>Production Environments:</b> The production environment refers to where the software or products have been made live for use of the intended users. Once something is in the production environment, any and all bugs need to have already been fixed and the product or update must work perfectly.  </li>
+                </ul>
+            </Essay>
+            <Essay q= 'Function vs Form: When are web images considered part of the content (HTML) as opposed to part of the appearance (CSS)?'>
+                <ul>
+                        <li><b>Answer. </b> Answer.  </li>
                 </ul>
             </Essay>
         </EssaysStyled>
