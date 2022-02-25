@@ -86,7 +86,16 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
             </Essay>
             <Essay q= 'Function vs Form: When are web images considered part of the content (HTML) as opposed to part of the appearance (CSS)?'>
                 <ul>
-                        <li><b>Answer. </b> Answer.  </li>
+                        <p><b>If an image has meaning, in terms of content, use HTML images but if it is purely decoration, use CSS images.</b></p>
+                        <p><b>HTML images</b> have the ability to add alt text and a title attribute, which can be picked up by screen readers. This is important when thinking about things such as Google as they do not see the image but the text within the image.</p>
+                        <p><b>CSS background images</b> are used for decoration only. If you want to add something pretty to your page to enhance the visual, use CSS but these images will be invisible to screen readers. </p>
+                </ul>
+            </Essay>
+            <Essay q="What is the difference between ID's, Classes and Tags? How does Specificity play a role in the selection of HTML elements (both in CSS and JS)">
+            <ul>
+                    <li><b>ID's: </b> Answer.  </li>
+                    <li><b>Classes: </b> Answer.  </li>
+                    <li><b>Tags: </b> Answer.  </li>
                 </ul>
             </Essay>
         </EssaysStyled>
