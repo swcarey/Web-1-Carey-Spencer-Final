@@ -37,21 +37,21 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
 </li>
                 </ul>
             </Essay>
-            <Essay q='What is the difference between Web Designer, Front End Developer and Back End Developer?'>
+            <Essay q='Session 5, Essay #4: What is the difference between Web Designer, Front End Developer and Back End Developer?'>
                 <ul>
                         <li><b>Web Designer / UX Designer:</b> Web designers build or redesign websites. They understand what it takes to make a website functional and easy to use in addition to making it aesthetically pleasing to the user. Aesthetics are extremely important when selecting the appropriate colors, font, layout and images, it creates the personality for the website. In addition to considering aesthetic aspects, the usability of the website has to be priority as they need to be easily used. </li>
                         <li><b>Front End Developer:</b> A Front End Developer generally has one responsibility and that is to ensure that website visitors can easily interact with the page. This is done through a combination of design, technology and programming to code appearance. Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website. Some responsibilities of a Front End Developer are prioritizing user experience, bringing a concept to life with HTML, CSS and JavaScript, implementing design for mobile sites and production/maintenance of websites and web application user interfaces just to name a few. </li>
                         <li><b>Back End Developer:</b> A Back End Developer is someone who builds and maintains the technology needed to power the components which enable the user-facing side of the website to exist. The back end code adds utility to everything the Front End Developer creates. They're responsible for maintaining, testing, and debugging the entire back end. This includes the core application logic, databases, data and application integration, API and other back end processes.</li>
                 </ul>
             </Essay>
-            <Essay q= 'Distinguish the difference between Site Relative, Document Relative, and Absolute Paths.'>
+            <Essay q='Session 6, Essay #5: Distinguish the difference between Site Relative, Document Relative, and Absolute Paths.'>
                 <ul>
                         <li><b>Site Relative:</b> Site root-relative paths provide the path from the site's root folder to a document. Begins with a leading forward slash, which stands for the site root folder. Often provides the best way to specify links in a website in which you need to frequently move HTML files from one folder to another. </li>
                         <li><b>Document Relative:</b> Document-relative paths are used for local links in most websites. They're useful when the current document and the linked document are in the same folder and are likely to remain together. Although you could use a document-relative path to link to a document in another folder by specifying the path through the folder hierarchy from the current document to the linked document.</li>
                         <li><b>Absolute Paths:</b> Absolute paths provide the complete URL of a linked document to locate a file or folder, starting from the root element and ending with other subdirectories. Could also be known as the "full path." Servers systems are required to know the absolute path for every file that it has access to in order to locate it. </li>
                 </ul>
             </Essay>
-            <Essay q= 'What is the difference between jpg, gif, png and SVG images?'>
+            <Essay q='Session 7, Essay #6: What is the difference between jpg, gif, png and SVG images?'>
                 <ul>
                         <li><b>JPEG:</b> A digital image format which contains compressed image data. With a 10:1 compression ratio, JPG images are very compact. Most popular format for sharing photos and other images on the internet between mobile and desktop users.</li>
                         <li><b>GIF:</b> In the easiest form,a GIF is just an animated image. Like the JPG and PNG file formats, GIF format can be used to make still images but the best feature of them is to create animated images. Less of a video and more of a flipbook.</li>
@@ -59,7 +59,7 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <li><b>SVG:</b> An XML-based vector image format for two-dimensional graphics with support for interactivity and animation without losing any resolution. Images can scale up to any resolution. </li>
                 </ul>
             </Essay>
-            <Essay q= 'Define the following roles: Project Manager, Business Analyst, Scrum Master, UX designer, Web Developer/Engineer, Quality Assurance Tester, and DevOps.'>
+            <Essay q= 'Session 8, Essay #7: Define the following roles: Project Manager, Business Analyst, Scrum Master, UX designer, Web Developer/Engineer, Quality Assurance Tester, and DevOps.'>
                 <ul>
                         <li><b>Project Manager:</b> A person who leads the work of a team to achieve all project goals within the given constraints. Responsible for day-to-day maintenance along with planning, procurement and execution of a project. </li>
                         <li><b>Business Analyst:</b> A person who analyzes and documents the market environment, process, or systems of businesses. Evaluate past and current business data with the primary goal of improving decision-making processes within organizations.</li>
@@ -70,17 +70,17 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <li><b>DevOps:</b> A set of practices that combines software development and IT operations. Aims to shorten the systems development life cycle and provide continuous delivery with high software quality. </li>
                 </ul>
             </Essay>
-            <Essay q= 'What is considered the right size for an image or video asset?'>
+            <Essay q='Session 9, Essay #8: What is considered the right size for an image or video asset?'>
                 <ul>
                         <li><b>Site Relative:</b> The ideal size is always going to be the highest you can go that will be the fastest to load while keeping the quality of the image. </li>
                 </ul>
             </Essay>
-            <Essay q= 'What does it mean for a company to be agile? What are the pros and cons of being agile?'>
+            <Essay q='Session 10, Essay #9: What does it mean for a company to be agile? What are the pros and cons of being agile?'>
                 <ul>
                         <li><b>Agile means:</b> Within the business context, agility means being able to respond to consumer or market changes at a moment's notice -- or make adjustments proactively ahead of them. Companies can adapt to changing conditions and reinvent itself for continued success such as adapting to things like working remote and having employees conference in. One draw back with this is requiring a consistent team.  </li>
                 </ul>
             </Essay>
-            <Essay q= 'What are testing environments? What is the difference between Local, Dev, QA and Production?'>
+            <Essay q='Session 11, Essay #10: What are testing environments? What is the difference between Local, Dev, QA and Production?'>
                 <ul>
                         <li><b>Testing Environments:</b> A test environment is any space in which software undergoes a series of experimental uses.  This includes setting up a server to run tests so you can create identical environments every time to test the product. In addition, it also involves hardware and a network configuration.</li>
                         <li><b>Local Environments:</b> A local development environment allows you to use your own machine to run your website, instead of using one provided by a web hosting company. You can customize the setup without worrying that it'll affect your live site, as well as make and test site development before uploading your site.</li>
@@ -89,14 +89,14 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <li><b>Production Environments:</b> The production environment refers to where the software or products have been made live for use of the intended users. Once something is in the production environment, any and all bugs need to have already been fixed and the product or update must work perfectly.  </li>
                 </ul>
             </Essay>
-            <Essay q= 'Function vs Form: When are web images considered part of the content (HTML) as opposed to part of the appearance (CSS)?'>
+            <Essay q='Session 12, Essay #11: Function vs Form: When are web images considered part of the content (HTML) as opposed to part of the appearance (CSS)?'>
                 <ul>
                         <p><b>If an image has meaning, in terms of content, use HTML images but if it is purely decoration, use CSS images.</b></p>
                         <p><b>HTML images</b> have the ability to add alt text and a title attribute, which can be picked up by screen readers. This is important when thinking about things such as Google as they do not see the image but the text within the image.</p>
                         <p><b>CSS background images</b> are used for decoration only. If you want to add something pretty to your page to enhance the visual, use CSS but these images will be invisible to screen readers. </p>
                 </ul>
             </Essay>
-            <Essay q="What is the difference between ID's, Classes and Tags? How does Specificity play a role in the selection of HTML elements (both in CSS and JS)">
+            <Essay q="Session 13, Essay #12: What is the difference between ID's, Classes and Tags? How does Specificity play a role in the selection of HTML elements (both in CSS and JS)">
                 <ul>
                         <li><b>ID's: </b> "ID's" are unique as each element can have only on ID and each page can have only one element with that ID. An identifier (ID) which must be unique in the whole document. Its purpose is to identify the element when linking, scripting or styling (with CSS).</li>
                         <li><b>Classes: </b> "Classes" are not unique. You can use the same class on multiple elements and you can use multiple classes on the same element. An attribute which specifies one or more class names for an HTML element. The class attribute can be used on any HTML element.</li>
@@ -104,7 +104,7 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <li><b>Specificity: </b> The set of rules applied to CSS selectors that determines which style is applied to an element. When more than one set of CSS rules apply to the same element, the browser will have to decide which specific set will be applied to the element. The rules the browser follows are collectively called Specificity. </li>
                 </ul>
             </Essay>
-            <Essay q="What is a CSS Preprocessor? What are some examples? In React, what are styled components? How do Styled Components violate separation of concerns?">
+            <Essay q="Session 14, Essay #13: What is a CSS Preprocessor? What are some examples? In React, what are styled components? How do Styled Components violate separation of concerns?">
                 <ul>
                         <p><b>Answer: </b> Answer Goes Here.</p>
                 </ul>
