@@ -106,6 +106,13 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
             </Essay>
             <Essay q="Session 14, Essay #13: What is a CSS Preprocessor? What are some examples? In React, what are styled components? How do Styled Components violate separation of concerns?">
                 <ul>
+                        <p><b>CSS Preprocessor: </b> A CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax. There are many CSS preprocessors to choose from, however most CSS preprocessors will add some features that don't exist in pure CSS, such as mixing, nesting, selector, inheritance selector etc.</p>
+                        <p><b>Styled Componenets in React: </b> Styled-components is a library built for React and React Native Developers. It allows you to use component-level styles in your application. Styled-componenets leverage a mixture of JavaSciprt and CSS using a technique called CSS-in-JS.</p>
+                        <p><b>Style Componenets violate seperation of concern: </b> CSS for appearance, JavaScript for behavior and HTML for content.</p>
+                </ul>
+            </Essay>
+            <Essay q="Session 15, Final Project Essay">
+                <ul>
                         <p><b>Answer: </b> Answer Goes Here.</p>
                 </ul>
             </Essay>
