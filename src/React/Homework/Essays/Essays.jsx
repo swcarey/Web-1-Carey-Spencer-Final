@@ -10,7 +10,7 @@ const Essays = () => {
             <Essay q='Session 1, No Essay.'>
                 <ul>
                         <li><b>No essay tonight.</b></li>
-                 </ul>
+                </ul>
             </Essay >
             <Essay q='Session 2, Essay #1: What is the difference between Git, Github and Heroku?'>
                 <ul>
@@ -104,16 +104,21 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <li><b>Specificity: </b> The set of rules applied to CSS selectors that determines which style is applied to an element. When more than one set of CSS rules apply to the same element, the browser will have to decide which specific set will be applied to the element. The rules the browser follows are collectively called Specificity. </li>
                 </ul>
             </Essay>
-            <Essay q="Session 14, Essay #13: What is a CSS Preprocessor? What are some examples? In React, what are styled components? How do Styled Components violate separation of concerns?">
+            <Essay q="Session 14, Essay #14: What is a CSS Preprocessor? What are some examples? In React, what are styled components? How do Styled Components violate separation of concerns?">
                 <ul>
                         <p><b>CSS Preprocessor: </b> A CSS preprocessor is a program that lets you generate CSS from the preprocessor's own unique syntax. There are many CSS preprocessors to choose from, however most CSS preprocessors will add some features that don't exist in pure CSS, such as mixing, nesting, selector, inheritance selector etc.</p>
                         <p><b>Styled Componenets in React: </b> Styled-components is a library built for React and React Native Developers. It allows you to use component-level styles in your application. Styled-componenets leverage a mixture of JavaSciprt and CSS using a technique called CSS-in-JS.</p>
                         <p><b>Style Componenets violate seperation of concern: </b> CSS for appearance, JavaScript for behavior and HTML for content.</p>
                 </ul>
             </Essay>
-            <Essay q="Session 15, Final Project Essay">
+            <Essay q="Session 15, Essay #15: Final Project Essay">
                 <ul>
-                        <p><b>Answer: </b> Answer Goes Here.</p>
+                        <p><b>Final Project Idea: </b>For my final project I have been debating between making a travel blog site or something revolving around food and recipes. The purpose of a travel site would be a destination to go to before your destination to get information and helpful tips about where you should go, what you should see and what is the best to eat. The recipe website is a little different as it would be a destination to go to for cooking inspo, share recipes and even section off different recipes by dietary restrictions or even allergies. I believe either of these would be a good option as they can both be implemented into the current site with some configuration but I am just having a mild struggle debating on which one to go with. Part of me is leaning more towards the traveling one as I am passionate about that and feel the recipe site would require too much to include with a short deadline like ours.  </p>
+                </ul>
+            </Essay>
+            <Essay q="Session 17, Essay #16: What is a Package Manager (e.g. NPM, Composer)? How does it play a role in software development?">
+                <ul>
+                        <p><b>Answer: </b>Answer goes here.</p>
                 </ul>
             </Essay>
         </EssaysStyled>
