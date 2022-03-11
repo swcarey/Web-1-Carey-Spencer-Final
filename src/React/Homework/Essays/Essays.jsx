@@ -111,14 +111,28 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <p><b>Style Componenets violate seperation of concern: </b> CSS for appearance, JavaScript for behavior and HTML for content.</p>
                 </ul>
             </Essay>
-            <Essay q="Session 15, Essay #15: Final Project Essay">
+            <Essay q="Session 15: Final Project Essay">
                 <ul>
                         <p><b>Final Project Idea: </b>For my final project I have been debating between making a travel blog site or something revolving around food and recipes. The purpose of a travel site would be a destination to go to before your destination to get information and helpful tips about where you should go, what you should see and what is the best to eat. The recipe website is a little different as it would be a destination to go to for cooking inspo, share recipes and even section off different recipes by dietary restrictions or even allergies. I believe either of these would be a good option as they can both be implemented into the current site with some configuration but I am just having a mild struggle debating on which one to go with. Part of me is leaning more towards the traveling one as I am passionate about that and feel the recipe site would require too much to include with a short deadline like ours.  </p>
                 </ul>
             </Essay>
+            <Essay q="Session 16, Essay #15: What is the difference between Web Hosts, Domains, and FTP?">
+                <ul>
+                        <p><b>Web Hosts: </b>A web hosting service is a type of internet hosting service that hosts websites for clients. It offers the facilities required for them to create and maintain a site and makes it accessible on the world wide web. These services work by maintaining stable and secure storage spaces.  </p>
+                        <p><b>Domains: </b>A domain name is an identification string that defines a realm of administrative autonomy, authority or control within the internet. Domain names are used in various networking contexts and for application specific naming and addressing purposes. A string of text that maps to a numeric IP address, used to access a website from client software. </p>
+                        <p><b>FTP: </b>File Transfer Protocol is a standard communication protocol used for the transfer of computer files from a server to a client on a computer network. FTP is built on a client-server model architecture using separate control and data connections between the client and the server.  </p>
+                </ul>
+            </Essay>
             <Essay q="Session 17, Essay #16: What is a Package Manager (e.g. NPM, Composer)? How does it play a role in software development?">
                 <ul>
-                        <p><b>Answer: </b>Answer goes here.</p>
+                        <p><b>Package Manager: </b>(A package manager keeps track of what software is installed on your computer, and allows you to easily install new software, upgrade software to newer versions, or remove software that you previously installed.) A Package Manager or package-management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer in a consistent manner. A package manager deals with packages, distributions of software and data in archive files.</p>
+                        <p><b>NPM: </b>(Default package manager for JavaScript;s runtime Node.js.) A Node Package Manager is a package manager for the JavaScript programming language maintained by npm, inc. npm is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.</p>
+                        <p><b>Composer: </b>(Application-level package manager for the PHP programming language that provides a standard format for managing dependencies of PHP software and require libraries.) Composer is a cross-platform dependency manager for PHP. It allows you to declare the libraries your project demands on and it will manage (install/update) them for you. Composer allows developers to specific project dependencies in a composer. json file and then Composer automatically handles the rest. </p>
+                </ul>
+            </Essay>
+            <Essay q="Session 18, Essay #16: ">
+                <ul>
+                        <p><b>Answer Header: </b>Answer goes here. </p>
                 </ul>
             </Essay>
         </EssaysStyled>
