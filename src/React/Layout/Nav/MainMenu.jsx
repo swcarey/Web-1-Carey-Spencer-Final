@@ -13,9 +13,9 @@ const MainMenu = ({showMenuUpdate}) => {
     return (
         <MainMenuStyled className='MainMenu'>
             <NavLink onClick={ clickHandler} to={ '/' } exact>Welcome</NavLink>
-            <NavLink onClick={ clickHandler} to={ '/services' }>Destinations</NavLink>
-            <NavLink onClick={ clickHandler} to={ '/contact' }>Contact</NavLink>
-            <NavLink onClick={ clickHandler} to={ '/login' }>Login</NavLink>
+            <NavLink onClick={ clickHandler} to={ '/services' }>Places</NavLink>
+            <NavLink onClick={ clickHandler} to={ '/contact' }>Get Info</NavLink>
+            <NavLink onClick={ clickHandler} to={ '/login' }>My Account</NavLink>
             <NavLink onClick={ clickHandler} to={ '/homework' }>Homework</NavLink> 
         </MainMenuStyled>
     );
@@ -41,11 +41,11 @@ const MainMenuStyled = styled.div`
 
 
         &:hover {
-            background-color: #080808;
+            background-color: #333333;
         }
         &.active {
             color: #FFFFFF;
-            background-color: #000000;
+            background-color: #51738b;
         }
     
     }

@@ -18,7 +18,9 @@ export default Header;
 
 const HeaderStyled = styled.div`
     display: flex;
-    background-color: teal;
+    font-weight: normal;
+    font-style: italic;
+    background-color: #333333;
     color: white;
 
     h4 {

@@ -9,7 +9,7 @@ const Essays = () => {
             <h2>Essays</h2>
             <Essay q='Session 1, No Essay.'>
                 <ul>
-                        <li><b>No essay tonight.</b></li>
+                        <li><b>No Essay Due.</b></li>
                 </ul>
             </Essay >
             <Essay q='Session 2, Essay #1: What is the difference between Git, Github and Heroku?'>
@@ -130,9 +130,9 @@ Overall, Single Page Applications seem to be the way to go to ensure the best ex
                         <p><b>Composer: </b>(Application-level package manager for the PHP programming language that provides a standard format for managing dependencies of PHP software and require libraries.) Composer is a cross-platform dependency manager for PHP. It allows you to declare the libraries your project demands on and it will manage (install/update) them for you. Composer allows developers to specific project dependencies in a composer. json file and then Composer automatically handles the rest. </p>
                 </ul>
             </Essay>
-            <Essay q="Session 18, Essay #16: ">
+            <Essay q="Session 18, No Essay: ">
                 <ul>
-                        <p><b>Answer Header: </b>Answer goes here. </p>
+                        <p><b>No Essay Due.</b></p>
                 </ul>
             </Essay>
         </EssaysStyled>

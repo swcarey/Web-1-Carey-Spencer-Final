@@ -1,28 +1,26 @@
 import React from 'react';
 import styled from 'styled-components';
 
-class Yotube extends React.Component {
-    render() {
-      const opts = {
-        height: '390',
-        width: '640',
-        playerVars: {
-          // https://developers.google.com/youtube/player_parameters
-          autoplay: 1,
-        },
-      };
-  
-      return <YouTube videoId="2g811Eo7K8U" opts={opts} onReady={this._onReady} />;
-    }
-  
-    _onReady(event) {
-      // access to player in all event handlers via event.target
-      event.target.pauseVideo();
-    }
-  }
+import LiteYouTubeEmbed from 'react-lite-youtube-embed';
+import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
+
+const Youtube = () => {
+
+    return (
+        <YoutubeStyled className='Youtube'>
+            10 Reasons Why You Should Travel Right NOW!
+            <LiteYouTubeEmbed
+                id="fP582Ro62hQ"
+                title="10 Reasons Why YOU SHOULD TRAVEL the World RIGHT NOW!"
+            />
+        </YoutubeStyled>
+    );
+}
 
 export default Youtube;
 
 const YoutubeStyled = styled.div`
-    
+    background-color: #51738b;
+    padding: 20px;
+    margin: 10px 0px;
 `;
