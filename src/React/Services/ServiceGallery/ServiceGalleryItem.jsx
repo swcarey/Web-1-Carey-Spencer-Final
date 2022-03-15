@@ -63,7 +63,7 @@ const ServiceGalleryItemStyled = styled.div`
         }
 
         h3 {
-            background-color: #008080bc;
+            background-color: #808080;
             margin: 0px;
             padding: 10px;
 

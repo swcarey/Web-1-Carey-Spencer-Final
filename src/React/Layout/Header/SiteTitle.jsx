@@ -5,8 +5,8 @@ const SiteTite = () => {
 
     return (
         <SiteTiteStyled className='SiteTitle'>
-            <h2>Spa Sanctuary</h2>
-            <h3>A Spa For Every Occassion</h3> 
+            <h2>A Taste of the World</h2>
+            <h3>Clever Slogan Goes Here.</h3> 
         </SiteTiteStyled>
     );
 }
@@ -14,12 +14,12 @@ const SiteTite = () => {
 export default SiteTite;
 
 const SiteTiteStyled = styled.div`
-    color: #064c4c;
+    color: #000000;
     text-align: left;
 
     h2 {
         margin: 0px;
-        font-size: 40px;
+        font-size: 30px;
     }
 
     h3 {

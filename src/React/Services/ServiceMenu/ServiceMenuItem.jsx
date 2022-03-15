@@ -32,7 +32,7 @@ const ServiceMenuItemStyled = styled.div`
     }
 
     &.active {
-        background-color: teal;
+        background-color: #808080;
         color: white;
     }
 `;
