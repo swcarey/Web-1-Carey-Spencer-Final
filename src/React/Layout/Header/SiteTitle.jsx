@@ -6,7 +6,7 @@ const SiteTite = () => {
     return (
         <SiteTiteStyled className='SiteTitle'>
             <h2>A Taste of the World</h2>
-            <h3>Clever Slogan Goes Here.</h3> 
+            <h3>You Adventure Starts Now.</h3> 
         </SiteTiteStyled>
     );
 }

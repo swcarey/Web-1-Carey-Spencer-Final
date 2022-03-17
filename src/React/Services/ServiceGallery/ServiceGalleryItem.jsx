@@ -22,7 +22,7 @@ const ServiceGalleryItem = ({service}) => {
                 <img src={ service.image } alt={ service.title } />
                 <ul>
                     <li><b>Continent:</b> { service.category }</li>
-                    <li><b>Location #:</b> { service.cost }</li>
+                    <li><b>Location ID#:</b> { service.cost }</li>
                 </ul>
                 <p>{ service.description }</p>
             </>
