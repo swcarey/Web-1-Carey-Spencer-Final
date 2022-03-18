@@ -17,7 +17,6 @@ const Welcome = () => {
             <Tabbed />
             <Youtube />
             <Staff />
-            <Instagram />
         </WelcomeStyled>
     );
 }
